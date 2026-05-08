@@ -1,3 +1,7 @@
+// Jika anda bruteforce saja, solusi anda akan mendapat verdict Time Limit Exceeded (TLE).
+// Optimisasinya menggunakan prefix_sum 2 dimensi, pelajari di link berikut:
+// https://www.geeksforgeeks.org/dsa/prefix-sum-2d-array/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
